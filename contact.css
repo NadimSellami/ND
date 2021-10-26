@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(224, 47, 47) !important;
+}
+h2 {
+    background-color: red ;
+    color: rgba(0, 255, 255, 0.973)  ;
+    border: 2px solid black;
+}
+.contacts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;;
+}
